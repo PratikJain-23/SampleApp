@@ -1,3 +1,3 @@
 FROM nginx
-ADD index.html /usr/share/nginx/var/www/html
+ADD index.html /usr/share/nginx/html
 EXPOSE 80
